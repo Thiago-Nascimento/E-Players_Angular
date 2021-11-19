@@ -1,0 +1,33 @@
+header {
+    background-color: #1E1C21;
+    height: 80px;
+}
+
+.logo {
+    width: 280px;
+}
+
+.cabecalho {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100%;
+}
+
+.menu {
+    width: 660px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.menu a {
+    color: white;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-family: 'Roboto';
+}
+
+.menu a:hover {
+    /* background-color: slategray; */
+    text-decoration: underline;
+}
