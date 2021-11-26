@@ -1,4 +1,11 @@
 {
+  "users": [
+    {
+      "email": "thiago@mail.com",
+      "password": "$2a$10$8RtnluPvSesnXAMWHXt8bens9vR0UqVdTJp.kJWzkQT7cne9XHgSq",
+      "id": 1
+    }
+  ],
   "noticias": [
     {
       "titulo": "Notícia 1",
@@ -29,12 +36,6 @@
       "titulo": "Notícia 6",
       "descricao": "Essa é a descricao legal da noticia 6",
       "id": 6
-    }
-  ],
-  "usuarios": [
-    {
-      "id": 1,
-      "nome": "Thiago"
     }
   ]
 }

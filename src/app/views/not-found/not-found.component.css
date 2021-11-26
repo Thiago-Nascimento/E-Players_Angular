@@ -1,0 +1,19 @@
+main {
+    background-color: black;
+    color: white;
+    padding: 100px 0;
+
+    height: 700px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+h1, p, img {
+    margin: 0 auto;
+}
+
+img {
+    width: 600px;
+}
